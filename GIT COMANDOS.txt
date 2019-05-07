@@ -1,0 +1,7 @@
+git clone (link do gitHub)        -- cria o repositorio na maquina
+git add .
+git commit -m "um comentario qualquer"
+git push                                  --envia os arquivos para o repositorio
+
+
+git checkout -b nome-da-branch           --cria uma nova branch
