@@ -5,3 +5,9 @@ git push                                  --envia os arquivos para o repositorio
 
 
 git checkout -b nome-da-branch           --cria uma nova branch
+
+git pull                                 --baixa as novas versões
+
+
+https://www.youtube.com/watch?v=UbJLOn1PAKw
+15:13
